@@ -35,5 +35,27 @@ input {
 }
 
 .card {
+  box-sizing: border-box;
   height: 200px;
+  padding: 20px 12px;
+}
+
+.announce, 
+.trend {
+  padding: 20px 20px 40px;
+  display: grid;
+  gap: 30px 10px;
+}
+
+h4 {
+  margin: 5px 0px;
+}
+
+h5, 
+h6 {
+  margin: 0px;
+}
+
+p {
+  margin: 0px;
 }
