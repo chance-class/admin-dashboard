@@ -3,6 +3,15 @@
   grid-template-columns: 1fr 4fr;
 }
 
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px;
+}
+
 .l-sidebar {
   grid-row: 1 / 3;
 }
