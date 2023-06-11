@@ -90,6 +90,9 @@ input {
   align-items: center;
   gap: 30px 10px;
   background-color: white;
+}
+
+.announce {
   margin-bottom: 30px;
 }
 
@@ -104,6 +107,7 @@ h3 {
 
 .l-sidebar > h3 {
   font-size: 35px;
+  padding: 20px;
 }
 
 h4 {
