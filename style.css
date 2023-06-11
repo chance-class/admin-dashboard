@@ -3,15 +3,26 @@
   grid-template-columns: 1fr 4fr;
 }
 
-ul {
-  padding: 0;
+.links-top, 
+.links-bottom {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  grid-auto-rows: 40px;
+  align-items: center;
+  margin: 30px 10px;
 }
 
-li {
-  list-style-type: none;
+.links-top > img, 
+.links-bottom > img {
+  justify-self: center;
+}
+
+.links-top > p, 
+.links-bottom > p {
   padding: 10px;
   font-size: 20px;
   font-weight: 700;
+  color: white;
 }
 
 .l-sidebar {
@@ -35,7 +46,7 @@ li {
 input {
   width: 600px;
   margin-right: auto;
-  background-color: #91ecf8;
+  background-color: #a3eef8;
 }
 
 .greeting {
@@ -112,6 +123,13 @@ p {
 
 button {
   background-color: #e89ac7;
+  height: 40px;
+  width: 80px;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  border: none;
 }
 
 p {
