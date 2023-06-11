@@ -49,8 +49,11 @@
 
 input {
   width: 600px;
+  height: 34px;
   margin-right: auto;
   background-color: #a3eef8;
+  border: 5px solid white;
+  border-radius: 20px;
 }
 
 .greeting {
