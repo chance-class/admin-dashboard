@@ -7,6 +7,14 @@
   grid-template-columns: 1fr 4fr;
 }
 
+p {
+  font-size: 12px;
+}
+
+.trend > div > p {
+  font-size: 14px;
+}
+
 .links-top, 
 .links-bottom {
   display: grid;
