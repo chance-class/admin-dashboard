@@ -44,6 +44,7 @@ input {
   grid-template-columns: 3fr 1fr;
   gap: 20px;
   background-color: #ecfccb;
+  padding: 20px;
 }
 
 .container {
@@ -67,6 +68,10 @@ input {
   display: grid;
   gap: 30px 10px;
   background-color: white;
+}
+
+.trend {
+  grid-template-columns: 1fr 3fr;
 }
 
 h4 {
