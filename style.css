@@ -89,6 +89,7 @@ input {
   border-left: 10px solid #e89ac7;
   border-radius: 5px;
   background-color: white;
+  box-shadow: 3px 3px 5px #b3b2b2;
 }
 
 .announce, 
@@ -98,6 +99,7 @@ input {
   align-items: center;
   gap: 30px 10px;
   background-color: white;
+  box-shadow: 3px 3px 5px #b3b2b2;
 }
 
 .announce {
