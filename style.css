@@ -1,3 +1,7 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
 .dashboard {
   display: grid;
   grid-template-columns: 1fr 4fr;
@@ -80,6 +84,7 @@ input {
 .trend {
   padding: 20px;
   display: grid;
+  align-items: center;
   gap: 30px 10px;
   background-color: white;
   margin-bottom: 30px;
