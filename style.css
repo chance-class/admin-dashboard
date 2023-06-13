@@ -8,11 +8,11 @@
 }
 
 p {
-  font-size: 12px;
+  font-size: 0.8rem;
 }
 
 .trend > div > p {
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 .links-top, 
@@ -32,7 +32,7 @@ p {
 .links-top > p, 
 .links-bottom > p {
   padding: 10px;
-  font-size: 20px;
+  font-size: 1.2rem;
   font-weight: 700;
   color: white;
 }
@@ -111,30 +111,30 @@ input {
 }
 
 h3 {
-  font-size: 28px;
+  font-size: 1.7rem;
   margin: 0;
 }
 
 .l-sidebar > h3 {
-  font-size: 35px;
+  font-size: 2rem;
   padding: 20px;
 }
 
 h4 {
   margin: 5px 0px;
-  font-size: 26px;
+  font-size: 1.5rem;
 }
 
 h5 {
-  font-size: 20px;
+  font-size: 1.3rem;
 }
 
 h6 {
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .card > p {
-  font-size: 18px;
+  font-size: 1.1rem;
 }
 
 h5, 
@@ -148,7 +148,7 @@ button {
   height: 40px;
   width: 80px;
   border-radius: 20px;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   color: white;
   border: none;
